@@ -8,7 +8,7 @@
 - Elegant Apple-inspired design
 - Basic arithmetic operations (addition, subtraction, multiplication, division)
 - Responsive layout that works well on desktop
-- Clear button (C)
+- Clear button (AC)
 - Supports keyboard input
 
 ## Live Demo
@@ -17,7 +17,7 @@ See the calculator in action: [Live Demo](https://iphone15pro-calculator.netlify
 
 ## Screenshots
 
-![Screenshot 1](C:\Users\balra\Downloads\screencapture-iphone15pro-calculator-netlify-app-2023-11-08-16_29_18.png)
+![Apple-calculator ](https://github.com/Masterjii/Apple-Calculator-/assets/122020633/71614959-cd6f-4ec1-9e8e-9525c3d3126f)
 
 ## Installation
 
@@ -33,7 +33,7 @@ See the calculator in action: [Live Demo](https://iphone15pro-calculator.netlify
 
 - Click the buttons to perform calculations.
 - Use your keyboard to input numbers and operators.
-- The clear button (C) clears the input.
+- The clear button (AC) clears the input.
 
 ## How it Works
 
